@@ -1,3 +1,3 @@
 # SimpleConsoleApp
 
-![](https://github.com/paulthecyclist/SimpleConsoleApp/workflows/.NET Core/badge.svg)
+[![Build Status](https://github.com/paulthecyclist/SimpleConsoleApp/workflows/.NET%20Core/badge.svg)](https://github.com/paulthecyclist/SimpleConsoleApp/actions)
